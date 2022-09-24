@@ -1,0 +1,19 @@
+.hero-backdrop{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size:contain;
+  background-position: center;
+  opacity:.5;
+}
+.hero-text{
+  position: relative;
+  z-index: 200;
+  text-align: center;
+}
+.hero-container{
+  position: relative;
+  z-index: 100;
+}
